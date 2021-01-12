@@ -81,7 +81,8 @@ const affirmations = [
   "Be better than every previous version of yourself",
   "You will get through this.",
   "Be here now. Be someplace else later",
-  "Let's make 2021 our best year ever !"
+  "Let's make 2021 our best year ever !",
+  "You think you deserve that pain but you don't"
 ];
 
 module.exports = affirmations
